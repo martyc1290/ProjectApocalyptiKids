@@ -659,6 +659,7 @@ GameObject:
   - component: {fileID: 13615390}
   - component: {fileID: 11469404}
   - component: {fileID: 114672910509718348}
+  - component: {fileID: 114544545301862628}
   m_Layer: 0
   m_Name: Player
   m_TagString: Player
@@ -2406,7 +2407,7 @@ Transform:
   m_PrefabParentObject: {fileID: 0}
   m_PrefabInternal: {fileID: 100100000}
   m_GameObject: {fileID: 100098}
-  m_LocalRotation: {x: 0.53267515, y: 0.07034045, z: 0.83613265, w: -0.11041513}
+  m_LocalRotation: {x: 0.5326752, y: 0.070340455, z: 0.83613276, w: -0.110415146}
   m_LocalPosition: {x: 0.000022271464, y: -0.00006150465, z: 0.026027026}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children:
@@ -2695,6 +2696,18 @@ Prefab:
   m_ParentPrefab: {fileID: 0}
   m_RootGameObject: {fileID: 149790}
   m_IsPrefabParent: 1
+--- !u!114 &114544545301862628
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 149790}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5c2e2fc0c3f09f94bb9d6ed4ad884b9e, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  maxHealthPoints: 100
 --- !u!114 &114672910509718348
 MonoBehaviour:
   m_ObjectHideFlags: 1
@@ -2707,3 +2720,4 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   walkMoveStopRadius: 0.2
+  attackMoveStopRadius: 5
