@@ -14,3 +14,6 @@ I installed Unity 2017.1.0f3 from MacBook on October 5. New version to be used o
 opening. Unity 2017.1.1f1 patch 3 or later should correct that issue...
 
 MONODEVELOP CRASH STILL EXISTS!!
+
+Check for 2017.1.1 patch 3 or later!
+https://forum.unity.com/threads/unity-and-macos-10-13-high-sierra.474527/
