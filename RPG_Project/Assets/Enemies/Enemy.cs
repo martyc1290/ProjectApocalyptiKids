@@ -12,6 +12,7 @@ public class Enemy : MonoBehaviour {
     {
         get
         {
+            // Test comment for commit
             return currentHealthPoints / maxHealthPoints;
         }
     }
