@@ -17,3 +17,6 @@ MONODEVELOP CRASH STILL EXISTS!!
 
 Check for 2017.1.1 patch 3 or later!
 https://forum.unity.com/threads/unity-and-macos-10-13-high-sierra.474527/
+
+Installing Unity 2017.1.1p4 with Visual Studio on MacBook on October 8, hopefully fixing
+MonoDevelop and High Sierra crashing issue...
