@@ -5,7 +5,7 @@ It appears that this repo is finally up and working! Save all Unity projects and
 
 Current versions of Unity as of October 5, 2017
 Mac: Unity 2017.1.1f1 (Previously Unity 2017.1.0f3 as of 09-01-2017)
-Windows: Unity 2017.1.1f1 (Previously Unity 5.6.1f1 as of 09-01-2017)
+Windows: Unity 2017.1.1p4 (Previously Unity 5.6.1f1 as of 09-01-2017, 2017.1.1f1 as of 10-17-2017)
 
 
 I installed Unity 2017.1.0f3 from MacBook on October 5. New version to be used on both MacBook and Windows desktop is 2017.1.1f1.
